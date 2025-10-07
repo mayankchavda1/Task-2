@@ -1,0 +1,29 @@
+From: PayPal Support <support@paypa1.com>
+To: user@example.com
+Date: Tue, 7 Oct 2025 10:30:00 +0000
+Subject: Urgent: Unusual Activity on Your Account - Action Required
+
+Return-Path: <bounce-12345@suspicious-server.net>
+Received: from mail-server.suspicious-server.net (suspicious-server.net [198.51.100.123])
+    by mx.google.com with ESMTP id h123456789;
+    Tue, 07 Oct 2025 10:30:00 -0000
+
+Dear Valued Customer,
+
+We have detected unusual login activity on your PayPal account. For your security, we have temporarily limited access to your account.
+
+Date and Time: October 7, 2025, 09:15 AM UTC
+Location: Unknown (IP Address: 103.56.15.22)
+
+To restore full access, you must verify your identity immediately. Failure to do so within 24 hours will result in permanent account suspension.
+
+Please click the link below to begin the verification process:
+<a href="http://paypal-security-update.ga/login">https://www.paypal.com/us/signin</a>
+
+Thank you for your cooperation.
+
+Sincerly,
+PayPal Support Team
+
+---
+This is an automated message. Please do not reply.
